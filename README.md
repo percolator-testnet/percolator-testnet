@@ -1,4 +1,4 @@
-# 🧠 Percolator Testnet
+# Percolator Testnet
 
 **Percolator** is a **sharded perpetual exchange protocol** built on **Solana**, designed for high-performance decentralized trading.
 This public **testnet** invites participants to run local nodes, monitor performance, and help identify bugs before mainnet deployment.
