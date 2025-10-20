@@ -19,33 +19,19 @@ Requirements:
 * **Solana CLI** (v2.0 or higher)
 * **Rust toolchain** (optional, for developers)
 
-After downloading, extract the archive and place the executable in a separate folder, for example:
-
-```
-C:\percolator-node\
-```
+`After downloading, extract the archive`
 
 ---
 
 ### 2. Start the Local Node
 
-Run the node executable:
-
-```bash
-percolator-node.exe --mode testnet
-```
+Run the node:`percolator-node.exe`
 
 The node will automatically:
 
 * Connect to the Solana test validator
 * Initialize Router & Slab programs
 * Start processing local trades and routing activity
-
-To stop the node:
-
-```bash
-CTRL + C
-```
 
 ---
 
