@@ -1,4 +1,4 @@
-//! Property-based tests for protocol invariants.
+//! Property-based tests for protocol invariants
 //!
 //! This module tests the core invariants from plan.md:
 //! - Safety: Capability constraints, escrow isolation
