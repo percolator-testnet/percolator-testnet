@@ -1,0 +1,2 @@
+# Work Log
+Document key security decisions in a dedicated log
